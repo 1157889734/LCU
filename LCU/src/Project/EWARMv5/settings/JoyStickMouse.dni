@@ -1,0 +1,68 @@
+[DebugChecksum]
+Checksum=-996962519
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[Profiling]
+Enabled=0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[DriverProfiling]
+Enabled=0
+Source=2
+Graph=0
+[Disassemble mode]
+mode=2
+[Breakpoints]
+Bp0=_ "STD_CODE" "0x2000040E" 0 0 0 0 "" 0 "" 0
+Bp1=_ "STD_CODE" "0x20000614" 0 0 0 0 "" 0 "" 0
+Bp2=_ "STD_CODE" "0x2000060C" 0 0 0 0 "" 0 "" 0
+Bp3=_ "STD_CODE" "0x08032004" 0 0 0 0 "" 0 "" 0
+Bp4=_ "STD_CODE" "0x08032000" 0 0 0 0 "" 0 "" 0
+Bp5=_ "STD_CODE" "0x08032008" 0 0 0 0 "" 0 "" 0
+Bp6=_ "STD_CODE" "0x0803200C" 0 0 0 0 "" 0 "" 0
+Bp7=_ "STD_CODE" "0x08032010" 0 0 0 0 "" 0 "" 0
+Bp8=_ "STD_CODE" "0x08032018" 0 0 0 0 "" 0 "" 0
+Bp9=_ "STD_CODE" "0x08032014" 0 0 0 0 "" 0 "" 0
+Bp10=_ "STD_CODE" "0x08000CAC" 0 0 0 0 "" 0 "" 0
+Bp11=_ "STD_CODE" "0x08000CB0" 0 0 0 0 "" 0 "" 0
+Bp12=_ "STD_CODE" "0x08000CB4" 0 0 0 0 "" 0 "" 0
+Bp13=_ "STD_CODE" "0x0800099E" 0 0 0 0 "" 0 "" 0
+Bp14=_ "STD_CODE" "0x0800098E" 0 0 0 0 "" 0 "" 0
+Bp15=_ "STD_CODE" "0x08000992" 0 0 0 0 "" 0 "" 0
+Bp16=_ "STD_CODE" "0x08000996" 0 0 0 0 "" 0 "" 0
+Bp17=_ "STD_CODE" "0x0800099A" 0 0 0 0 "" 0 "" 0
+Bp18=_ "STD_CODE" "0x080009A2" 0 0 0 0 "" 0 "" 0
+Bp19=_ "STD_CODE" "0x20000C0C" 0 0 0 0 "" 0 "" 0
+Bp20=_ "STD_CODE" "0x20000C04" 0 0 0 0 "" 0 "" 0
+Bp21=_ "STD_CODE" "0x20000C08" 0 0 0 0 "" 0 "" 0
+Bp22=_ "STD_CODE" "0x20000C10" 0 0 0 0 "" 0 "" 0
+Bp23=_ "STD_CODE" "{F:\work\svn\SourceCode\PIS\Tunis\DevicesCode\CANopen\Project\src\uart3.c}.43.5@1" 0 0 0 0 "" 0 "" 0
+Bp24=_ "STD_CODE" "{F:\work\svn\SourceCode\PIS\Tunis\DevicesCode\CANopen\Project\src\stm32f10x_it.c}.60.3@1" 0 0 0 0 "" 0 "" 0
+Bp25=_ "STD_CODE" "{F:\work\svn\SourceCode\PIS\Tunis\DevicesCode\CANopen\Project\src\ptu.c}.598.3@1" 0 0 0 0 "" 0 "" 0
+Bp26=_ "STD_CODE" "{$PROJ_DIR$}.60.3@1" 0 0 0 0 "" 0 "" 0
+Bp27=_ "STD_CODE" "{C:\Users\Administrator\Desktop\新建文件夹\Project\src\ptu.c}.742.1@1" 0 0 0 0 "" 0 "" 0
+Bp28=_ "STD_CODE" "{E:\project\深1改造\深圳1号线26列车改造（新珂）\本地控制器\src\src\Project\src\progupdate.c}.571.13@1" 0 0 0 0 "" 0 "" 0
+Count=29
+[Aliases]
+Count=0
+SuppressDialog=0

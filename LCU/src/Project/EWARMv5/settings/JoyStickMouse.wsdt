@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs/></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>335</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      <PreferedWindows><Position>4</Position><ScreenPosX>609</ScreenPosX><ScreenPosY>119</ScreenPosY><Windows/></PreferedWindows></Workspace>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>4</Position><ScreenPosX>268</ScreenPosX><ScreenPosY>322</ScreenPosY><Windows/></PreferedWindows><ColumnWidth0>151</ColumnWidth0><ColumnWidth1>909</ColumnWidth1><ColumnWidth2>242</ColumnWidth2><ColumnWidth3>60</ColumnWidth3></Build>
+      <Debug-Log>
+        
+        
+      <PreferedWindows><Position>4</Position><ScreenPosX>184</ScreenPosX><ScreenPosY>527</ScreenPosY><Windows><Window><Factory>Build</Factory></Window></Windows></PreferedWindows><ColumnWidth0>27</ColumnWidth0><ColumnWidth1>1212</ColumnWidth1></Debug-Log>
+      <TerminalIO/>
+    <Find-in-Files><PreferedWindows><Position>4</Position><ScreenPosX>174</ScreenPosX><ScreenPosY>477</ScreenPosY><Windows><Window><Factory>Build</Factory></Window><Window><Factory>Debug-Log</Factory></Window></Windows></PreferedWindows><ColumnWidth0>440</ColumnWidth0><ColumnWidth1>62</ColumnWidth1><ColumnWidth2>754</ColumnWidth2></Find-in-Files><SourceBrowser><PreferedWindows><Position>4</Position><ScreenPosX>497</ScreenPosX><ScreenPosY>91</ScreenPosY><Windows><Window><Factory>Workspace</Factory></Window><Window><Factory>Find-in-Files</Factory></Window><Window><Factory>Build</Factory></Window></Windows></PreferedWindows></SourceBrowser><Breakpoints><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Find-in-Files</Factory></Window><Window><Factory>Build</Factory></Window><Window><Factory>Debug-Log</Factory></Window></Windows></PreferedWindows></Breakpoints><Watch><PreferedWindows><Position>4</Position><ScreenPosX>957</ScreenPosX><ScreenPosY>144</ScreenPosY><Windows/></PreferedWindows></Watch><Disassembly><PreferedWindows><Position>4</Position><ScreenPosX>587</ScreenPosX><ScreenPosY>244</ScreenPosY><Windows/></PreferedWindows></Disassembly></Static>
+    <Windows>
+      
+      
+    <Wnd2><Tabs><Tab><Identity>TabID-23813-5994</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd2><Wnd3><Tabs><Tab><Identity>TabID-15136-14344</Identity><TabName>Workspace</TabName><Factory>Workspace</Factory><Session><NodeDict/></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>D:\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_pwr.c</Filename><XPos>0</XPos><YPos>174</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Libraries\STM32_USB-FS-Device_Driver\src\usb_mem.c</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>2089</SelStart><SelEnd>2089</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Libraries\STM32_USB-FS-Device_Driver\inc\usb_lib.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>96</SelStart><SelEnd>112</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Libraries\CMSIS\Core\CM3\startup\iar\startup_stm32f10x_md.s</Filename><XPos>0</XPos><YPos>129</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Libraries\STM32_USB-FS-Device_Driver\inc\usb_core.h</Filename><XPos>0</XPos><YPos>139</YPos><SelStart>4408</SelStart><SelEnd>4408</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_usart.c</Filename><XPos>0</XPos><YPos>783</YPos><SelStart>28022</SelStart><SelEnd>28022</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h</Filename><XPos>0</XPos><YPos>79</YPos><SelStart>3157</SelStart><SelEnd>3157</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Libraries\STM32_USB-FS-Device_Driver\src\usb_init.c</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>2736</SelStart><SelEnd>2736</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Libraries\STM32_USB-FS-Device_Driver\src\usb_int.c</Filename><XPos>0</XPos><YPos>123</YPos><SelStart>4800</SelStart><SelEnd>4800</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Libraries\STM32_USB-FS-Device_Driver\src\usb_regs.c</Filename><XPos>0</XPos><YPos>194</YPos><SelStart>7757</SelStart><SelEnd>7771</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Libraries\STM32_USB-FS-Device_Driver\inc\usb_regs.h</Filename><XPos>0</XPos><YPos>27</YPos><SelStart>1515</SelStart><SelEnd>1526</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Libraries\STM32_USB-FS-Device_Driver\src\usb_core.c</Filename><XPos>0</XPos><YPos>87</YPos><SelStart>4594</SelStart><SelEnd>4594</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_gpio.c</Filename><XPos>0</XPos><YPos>412</YPos><SelStart>8315</SelStart><SelEnd>8336</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Libraries\CMSIS\Core\CM3\core_cm3.h</Filename><XPos>0</XPos><YPos>259</YPos><SelStart>13024</SelStart><SelEnd>13024</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>2729</SelStart><SelEnd>2729</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_exti.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1293</SelStart><SelEnd>1293</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_rcc.c</Filename><XPos>0</XPos><YPos>935</YPos><SelStart>31713</SelStart><SelEnd>31716</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Libraries\STM32F10x_StdPeriph_Driver\src\misc.c</Filename><XPos>0</XPos><YPos>131</YPos><SelStart>4783</SelStart><SelEnd>4783</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Libraries\CMSIS\Core\CM3\core_cm3.c</Filename><XPos>0</XPos><YPos>308</YPos><SelStart>6661</SelStart><SelEnd>6661</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Libraries\CMSIS\Core\CM3\system_stm32f10x.c</Filename><XPos>0</XPos><YPos>148</YPos><SelStart>7117</SelStart><SelEnd>7117</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Libraries\CMSIS\Core\CM3\stm32f10x.h</Filename><XPos>0</XPos><YPos>22</YPos><SelStart>1477</SelStart><SelEnd>1477</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_iwdg.c</Filename><XPos>0</XPos><YPos>35</YPos><SelStart>1377</SelStart><SelEnd>1395</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Libraries\CMSIS\Core\CM3\startup\iar\startup_stm32f10x_hd.s</Filename><XPos>0</XPos><YPos>127</YPos><SelStart>7102</SelStart><SelEnd>7102</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_flash.c</Filename><XPos>0</XPos><YPos>341</YPos><SelStart>9456</SelStart><SelEnd>9456</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h</Filename><XPos>0</XPos><YPos>51</YPos><SelStart>1681</SelStart><SelEnd>1681</SelEnd></Tab><ActiveTab>25</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>202</Bottom><Right>421</Right><x>-2</x><y>-2</y><xscreen>423</xscreen><yscreen>204</yscreen><sizeHorzCX>330469</sizeHorzCX><sizeHorzCY>281768</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>276243</sizeVertCY></Rect></Wnd3><Wnd2><Rect><Top>0</Top><Left>0</Left><Bottom>0</Bottom><Right>12822048</Right><x>419</x><y>-2</y><xscreen>863</xscreen><yscreen>204</yscreen><sizeHorzCX>674219</sizeHorzCX><sizeHorzCY>281768</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>276243</sizeVertCY></Rect></Wnd2></Sizes></Row0><Row1><Sizes><Toolbar-00bf9380><key>iaridepm.enu1</key></Toolbar-00bf9380></Sizes></Row1></Top><Left><Row0><Sizes/></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes/></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
